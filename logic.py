@@ -13,7 +13,7 @@ mydb = mc.connect(
 mycursor = mydb.cursor()
 
 # KITECONNECT OBJECT
-kc = KiteConnect( "klxymrz872j2nng8" , "tdZisdRn8dUKkLSwz13vw17n9JcrZ8uJ" )
+kc = KiteConnect( "h" , "g" )
 
 def get_items():
     # IMPORTING INSTRUMENT TOKENS FROM JSON FILE
